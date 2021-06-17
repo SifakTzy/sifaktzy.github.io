@@ -1,4 +1,4 @@
-# gaabut
+# gabut
 
 gatau sih gabut og
 
